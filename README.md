@@ -11,24 +11,24 @@
 - [Week03](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week03)
   - 5장 웹 서버
   - 6장 프락시
-  - 7장 캐시
 - [Week04](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week04)
+  - 7장 캐시
   - 8장 통합점: 게이트웨이, 터널, 릴레이
+- [Week05](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week05)
   - 9장 웹 로봇
   - 10장 HTTP/2.0
-- [Week05](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week05)
   - 11장 클라이언트 식별과 쿠키
+- [Week06](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week06)
   - 12장 기본 인증
   - 13장 다이제스트 인증
-- [Week06](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week06)
   - 14장 보안 HTTP
+- [Week07](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week07)
   - 15장 엔터티와 인코딩
   - 16장 국제화
-- [Week07](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week07)
   - 17장 내용 협상과 트랜스코딩
+- [Week08](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week08)
   - 18장 웹 호스팅
   - 19장 배포 시스템
-- [Week08](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week08)
   - 20장 리다이렉션과 부하 균형
   - 21장 로깅과 사용 추적
   - 부록
