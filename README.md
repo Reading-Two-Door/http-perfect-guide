@@ -22,12 +22,12 @@
   - 12장 기본 인증
   - 13장 다이제스트 인증
   - 14장 보안 HTTP
-- [Week07](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week07)
+- [Week07~08(추석 주 모임 X)](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week07)
   - 15장 엔터티와 인코딩
   - 16장 국제화
   - 17장 내용 협상과 트랜스코딩
-- [Week08](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week08)
   - 18장 웹 호스팅
+- [Week09](https://github.com/Reading-Two-Door/http-perfect-guide/tree/main/week08)
   - 19장 배포 시스템
   - 20장 리다이렉션과 부하 균형
   - 21장 로깅과 사용 추적
